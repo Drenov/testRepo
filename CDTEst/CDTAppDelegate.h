@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface CDTAppDelegate : UIResponder <UIApplicationDelegate>
-
+//hello lune!!!
 @property (strong, nonatomic) UIWindow *window;
 
 @property (readonly, strong, nonatomic) NSManagedObjectContext *managedObjectContext;
