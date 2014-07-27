@@ -10,6 +10,7 @@
 
 @interface CDTAppDelegate : UIResponder <UIApplicationDelegate>
 //hello lune!!!
+//hello mars!!!!
 @property (strong, nonatomic) UIWindow *window;
 
 @property (readonly, strong, nonatomic) NSManagedObjectContext *managedObjectContext;
